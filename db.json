@@ -30,5 +30,9 @@
     "title": "nesciunt quas odio",
     "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
   }
- ]
+ ],
+  "comments":[
+    { "id": 1, "body": "heyy there", "postId": 1 },
+    { "id": 2, "body": "this is a comment", "postId": 1 }
+  ]
 }
