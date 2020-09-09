@@ -11,14 +11,19 @@
   {
     "userId": 1,
     "id": 2,
-    "title": "qui est esse",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "author":"Joseph Fernandes",
+    "category":"Finance",
+    "title": "eKYC Is Now Mandatory to See Mutual Fund Investments",
+    "body": "Unable to view the different offers and schemes related to mutual funds? Quite possible & understood because now KYC is mandatory to have access to such offers. For every business, it is very important to have at least the valid identity of its client or the one it is dealing with. The importance of knowing the client’s details even become higher when it comes to financial institutions."
   },
   {
     "userId": 1,
     "id": 3,
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    "author":"Harsha Bogle",
+    "category":"Sports",
+    "title": "Which is the strongest team in IPL 2020",
+    "body": "I will try to be neutral while doing this analysis. I hope this analysis will give you an exact image of each IPL team on paper and in the end, you will get to know about the strongest IPL team in 2020.
+To determine the strongest team or the capability of each team, I will be focusing on the capability of the top order, middle order, death bowling, spin factor & finishers."
   },
   {
     "userId": 1,
